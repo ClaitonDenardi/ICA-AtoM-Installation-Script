@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script_Instalação do AtoM -  Ubuntu 14.04
-# Claiton Denardi Paulus
+# Claiton Denardi Paulus & Luis Henrique Medeiros
 # BaseGED_2018/1
 
 echo "Script de instalação AtoM, sua senha de root poderá ser solicitada em certos momentos."
