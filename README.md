@@ -13,5 +13,3 @@
 
 ### Importante!!!
 * Se o script não funcionou em seu sistema execute o mesmo em uma instalação "zerada" do Ubuntu 14.04, sem demais programas instalados, pois os mesmos podem conflitar com algum processo da instalação.
-
-![AtoM](https://www.artefactual.com/wp-content/uploads/2013/10/atom-1024x354.png)   
